@@ -1,0 +1,7 @@
+Feature: Heroku Login Functionality # features/login.feature:1
+
+  Scenario: User logs into Heroku successfully       # features/login.feature:3
+    Given I open the Heroku login page               # features/steps/login_steps.py:34
+    When I enter valid Heroku credentials            # features/steps/login_steps.py:41
+    Then I should be logged into Heroku successfully # features/steps/login_steps.py:46
+
