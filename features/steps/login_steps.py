@@ -10,8 +10,8 @@ capabilities = {
     "browserName": "chrome",
     "browserVersion": "latest",
     "LT:Options": {
-        "user": "belalahmad",
-        "accessKey": "LT_7VDCei73IDbSY28Yxz9fbocgnw9Ja4ryhwGP4HccHy967Rc",
+        "user": "",
+        "accessKey": "",
         "build": "Playwright Allure Integration new",
         "name": "Behave Test",
         "platform": "Windows 10",
